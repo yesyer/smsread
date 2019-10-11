@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eubank Sms</string>
+    <string name="tab_title_1">ATM</string>
+    <string name="tab_title_2">Smartbank</string>
+</resources>
